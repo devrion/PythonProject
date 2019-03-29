@@ -6,7 +6,7 @@ I went to the https://louisvilleky.gov/government/air-pollution-control-district
 
 Dependencies Used:
 
-pandas
-matplotlib
-csv
+pandas,
+matplotlib,
+csv,
 sqlite3
